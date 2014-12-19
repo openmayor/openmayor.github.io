@@ -1,0 +1,10 @@
+name: Open Mayor
+description: Using open-source to get government working for everyone.
+meta_description: "Using open-source to get government working for everyone."
+
+markdown: redcarpet
+pygments: true
+relative_permalinks: false
+
+url:            'blog url'
+author:         'Your Name'
